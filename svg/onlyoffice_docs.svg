@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="36.6666mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 842.11 771.93"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+    .fil2 {fill:url(#id2)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="409.54" y1="900.81" x2="409.54" y2="334.28">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FCC2B1"/>
+   <stop offset="0.890196" style="stop-opacity:1; stop-color:#D9420B"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D9420B"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="409.57" y1="655.37" x2="409.57" y2="274.28">
+   <stop offset="0" style="stop-opacity:1; stop-color:#DEEDC9"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#8BBA25"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#8BBA25"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="409.57" y1="491.15" x2="409.57" y2="-3.29">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C2EBFA"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#26A8DE"/>
+  </linearGradient>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="onlyoffice.svg">
+   <path class="fil0" d="M368.46 762.47l-346.33 -158.99c-29.5,-13.88 -29.5,-35.33 0,-47.95l120.58 -55.52 224.47 103.47c29.5,13.88 76.96,13.88 105.19,0l224.47 -103.47 120.58 55.52c29.5,13.88 29.5,35.33 0,47.95l-346.34 158.99c-26.93,12.62 -74.4,12.62 -102.62,0z"/>
+   <path class="fil1" d="M368.46 566.88l-346.33 -158.99c-29.5,-13.88 -29.5,-35.33 0,-47.95l118.01 -54.26 228.32 104.73c29.51,13.88 76.96,13.88 105.19,0l228.32 -104.73 118.01 54.26c29.5,13.88 29.5,35.33 0,47.95l-346.33 158.99c-29.5,13.88 -76.97,13.88 -105.19,0z"/>
+   <path class="fil2" d="M368.46 376.35l-346.33 -158.99c-29.5,-13.88 -29.5,-35.33 0,-47.95l346.33 -158.99c29.51,-13.88 76.96,-13.88 105.19,0l346.33 158.99c29.5,13.88 29.5,35.33 0,47.95l-346.33 158.99c-29.5,12.61 -76.97,12.61 -105.19,0z"/>
+  </g>
+ </g>
+</svg>

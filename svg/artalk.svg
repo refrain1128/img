@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="40mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1777.78 1777.78"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil5 {fill:none}
+    .fil1 {fill:#7789A4}
+    .fil0 {fill:#6E8391}
+    .fil2 {fill:#9ED7E7}
+    .fil3 {fill:white}
+    .fil4 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2103797399312">
+   <rect class="fil0" x="0" y="0" width="1777.78" height="1777.78"/>
+   <polygon class="fil1" points="609.34,503.57 244.54,1207.57 408.81,1207.57 494.29,1032.66 551.05,916.53 558.36,901.57 686.14,640.11 695.5,916.53 699.43,1032.66 705.34,1207.57 858.94,1207.57 799.21,503.57 "/>
+   <polygon class="fil2" points="695.49,916.53 558.36,901.57 551.05,916.53 "/>
+   <polygon class="fil2" points="1107.33,667.84 982.68,667.84 982.68,682.77 1104.08,682.77 "/>
+   <path class="fil2" d="M1438.14 667.84l-176.74 0c-1.12,4.9 -2.26,9.88 -3.42,14.93l180.16 0 0 -14.93z"/>
+   <path class="fil2" d="M1319.74 1104.11l-141.78 -39.3c7.83,46.36 68.18,39.3 68.18,39.3l73.6 0z"/>
+   <path class="fil3" d="M1081.85 785.17l-56.51 260.27c0,0 -55.47,154.67 125.87,157.87l190.93 4.27 27.73 -103.47 -50.13 0 -73.6 0c0,0 -60.35,7.06 -68.18,-39.3 -1.31,-7.72 -1.16,-16.93 0.98,-27.9 6.86,-35.3 31.3,-144.27 55.71,-251.74l198.16 0 27.73 -102.4 -22.4 0 -180.16 0c1.16,-5.05 2.29,-10.03 3.42,-14.93 17.43,-76.19 30.6,-133.33 30.6,-133.33l-155.73 0 -28.95 133.33 -3.24 14.93 -121.41 0 -27.73 0 -25.6 102.4 152.51 0z"/>
+   <polygon class="fil1" points="1532,1617.17 226.4,1617.17 226.4,1777.78 1532,1777.78 "/>
+   <polygon class="fil4" points="551.05,916.53 695.49,916.53 699.43,1032.66 494.29,1032.66 408.81,1207.57 244.54,1207.57 609.34,503.57 799.21,503.57 858.94,1207.57 705.34,1207.57 686.14,640.11 "/>
+   <line class="fil5" x1="695.49" y1="916.53" x2="558.36" y2= "901.57" />
+   <rect class="fil2" x="226.4" y="1617.17" width="1305.6" height="160.61"/>
+  </g>
+ </g>
+</svg>

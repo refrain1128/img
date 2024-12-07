@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40.0001mm" height="39.9998mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1777.79 1777.77"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="389.21" y1="723.3" x2="1710.93" y2="1547.96">
+   <stop offset="0" style="stop-opacity:1; stop-color:#AA5CC3"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#00A4DC"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="389.59" y1="701.42" x2="1711.02" y2="1525.97">
+  </linearGradient>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="jellyfin.svg">
+   <g id="icon-transparent">
+    <path id="inner-shape" class="fil0" d="M888.99 681.14c-77.93,0 -329.3,455.75 -291.09,532.53 38.2,76.78 544.37,76.02 582.19,0 37.82,-76.02 -212.78,-532.53 -291.1,-532.53z"/>
+    <path id="outer-shape" class="fil1" d="M888.99 0c-235.32,0 -992.48,1372.97 -877.11,1604.86 115.37,231.89 1640,229.21 1754.23,0 114.22,-229.21 -641.79,-1604.86 -877.12,-1604.86zm574.94 1403.92c-74.88,150.13 -1073.85,152.04 -1149.49,0 -75.64,-152.04 420.6,-1051.7 574.55,-1051.7 153.96,0 649.81,901.18 574.94,1051.7z"/>
+   </g>
+  </g>
+ </g>
+</svg>
